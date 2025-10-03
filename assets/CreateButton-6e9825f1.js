@@ -1,0 +1,2 @@
+import{j as e,L as t,P as a}from"./index-16ff5701.js";function x({title:s,to:r}){return e.jsx(t,{to:r,children:e.jsx("button",{className:`xs:px-3 px-2 md:text-base py-[6px] lg:px-5  border bg-primary
+         hover:bg-primary/60 text-white rounded cursor-pointer`,children:e.jsxs("span",{className:"flex items-center justify-center gap-1 md:gap-2 ",children:[e.jsx(a,{}),e.jsx("span",{className:"",children:s||"Add Item"})]})})})}export{x as C};
